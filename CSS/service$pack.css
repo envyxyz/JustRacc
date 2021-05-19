@@ -1,0 +1,21 @@
+.button.buttonO img,
+#modVoteHold,
+#tradeChatInput,
+#itemSearchH,
+#customizeButton .material-icons,
+#braveWarning,
+#menuClassNameTag,
+#bubbleContainer,
+#killsIcon,
+#deathsIcon,
+#streakIcon,
+#livesCount .material-icons,
+#scoreCount .material-icons,
+#kdIcon,
+#botRightHider #weapDisplay .weapItem .weapKey,
+.weapKey,
+.tScoreM,
+#weapDisplay,
+#newsHolder {
+	display: none!important
+}
