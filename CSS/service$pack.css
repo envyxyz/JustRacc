@@ -22,7 +22,7 @@
 .terms[onclick="showWindow(35)"]+.verticalSeparatorInline{
 	display: none!important
 }
-
+/*
 #healthBar {
     position: fixed;
     right: unset;
@@ -53,7 +53,7 @@
     bottom: -5px;
     font-size: 72px;
 }
-
+*/
 #mLevelCont {
     left: 280px!important
 }
