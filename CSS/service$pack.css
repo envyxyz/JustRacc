@@ -21,3 +21,34 @@
 .terms[onclick="showWindow(35)"]+.verticalSeparatorInline{
 	display: none!important
 }
+
+#healthBar {
+    position: fixed;
+    right: unset;
+    left: 50%;
+    bottom: 90px;
+    background-color: transparent;
+    height: 35px;
+    transform: translateX(-50%);
+    display: block!important
+}
+
+#healthValue {
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%);
+    margin-left: -145px;
+    right: unset;
+    bottom: -5px;
+    font-size: 72px;
+}
+
+#ammoVal {
+    position: fixed;
+    right: 50%;
+    transform: translateX(50%);
+    margin-right: -150px;
+    left: unset;
+    bottom: -5px;
+    font-size: 72px;
+}
