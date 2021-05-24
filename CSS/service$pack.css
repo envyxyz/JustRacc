@@ -16,6 +16,8 @@
 .weapKey,
 .tScoreM,
 #weapDisplay,
-#newsHolder {
+#newsHolder,
+.terms[style="font-size: 16px; padding-left: 10px;"][onclick="window.chrome.webview.postMessage(`clientInfo`)"],
+.terms[onclick="showWindow(35)"]+.verticalSeparatorInline{
 	display: none!important
 }
