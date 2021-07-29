@@ -57,3 +57,17 @@
 #mLevelCont {
     left: 280px!important
 }
+
+/* Removal */
+
+/* Update 7/22 */
+
+.button,
+.button:hover{
+	border: hidden!important
+}
+
+.setSugBox{
+    display: none    
+}
+
