@@ -71,3 +71,48 @@
     display: none    
 }
 
+/* 6th August */
+
+.menBtnIcn {
+	font-size: 0!important;
+}
+
+#menuItemContainer {
+	background: transparent;
+	height: 30px;
+	padding: 0!important
+}
+
+.menuItem {
+	height: 30px;
+	padding: 0px!important;
+	margin: 0 15px
+}
+
+.menuItem .menuItemTitle {
+	margin-top: -50px
+}
+
+.menuItem:first-of-type {
+	width: max-content!important;
+}
+
+.progressBarInner,
+.xpBarB,
+.chalXPBarC {
+	height: 100%;
+	background-image: linear-gradient(to right, var(--accent-color), var(--accent-color), 94%, white);
+}
+
+.material-icons-outlined {
+	color: var(--accent-color)!important
+}
+
+.quickJoin {
+	border: hidden
+}
+
+#loadEditrBtn {
+	display: none!important;
+}
+
